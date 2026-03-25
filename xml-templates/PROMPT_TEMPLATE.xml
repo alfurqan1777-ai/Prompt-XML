@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PromptTemplate>
+    <Metadata>
+        <Author>alfurqan1777-ai</Author>
+        <DateCreated>2026-03-25 22:31:05</DateCreated>
+        <Version>1.0</Version>
+    </Metadata>
+    <Prompt>
+        <Instruction></Instruction>
+        <Example></Example>
+    </Prompt>
+</PromptTemplate>
