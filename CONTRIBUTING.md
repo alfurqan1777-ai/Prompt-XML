@@ -34,4 +34,5 @@ Example:
 3. Make your changes and commit them with descriptive messages.
 4. Push your branch and submit a pull request.
 
-Thank you for helping improve the Prompt-XML project! We appreciate your efforts!
+Thank you for helping improve the Prompt-XML project! We appreciate your efforts! 
+cr : https://github.com/GKT-thai/God-Tier-System-Instructions
