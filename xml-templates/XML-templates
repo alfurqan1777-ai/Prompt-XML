@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Template for prompt metadata. Copy this header into new prompt files. -->
+<Prompt>
+  <Title>Example Prompt Title</Title>
+  <Creator>imron GTK thai</Creator>
+  <Confidence>0.90</Confidence>
+  <Tags>persona,example,usage</Tags>
+  <Context>Short context description (optional)</Context>
+  <Objective>Clear objective (e.g., "Summarize X in 150 words")</Objective>
+  <Style>Technical</Style>
+  <Tone>Formal</Tone>
+  <Audience>Non-technical managers</Audience>
+  <Response>Markdown paragraph</Response>
+  <ExampleInput>Example input text here.</ExampleInput>
+  <ExampleOutput>Expected example output here.</ExampleOutput>
+  <Grammar_Check>
+    <Spelling>ตรวจสอบตัวสะกดและวรรณยุกต์ภาษาไทย/อังกฤษอย่างละเอียด 100%</Spelling>
+    <Conciseness>ตัดคำสร้อยหรือคำเชื่อมที่ทำให้เนื้อหายืดเยื้อโดยไม่จำเป็น</Conciseness>
+    <Consistency>รักษาภาษาระดับกึ่งทางการให้สอดคล้องกันตลอดทั้งคำตอบ</Consistency>
+    <Self_Correction>หากพบจุดที่อ่านแล้วติดขัด ให้ทำการแก้ไขภายในก่อนแสดงผลลัพธ์สุดท้าย</Self_Correction>
+  </Grammar_Check>
+</Prompt>
