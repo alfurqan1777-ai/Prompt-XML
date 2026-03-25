@@ -1,0 +1,18 @@
+<CoreFeaturesSet>
+    <Feature>
+        <Name>Zero Latency Response</Name>
+        <Prompt>How can I ensure that my responses are delivered instantly without any delays?</Prompt>
+    </Feature>
+    <Feature>
+        <Name>Precision Reasoning</Name>
+        <Prompt>What are the best practices for ensuring accuracy in logical reasoning?</Prompt>
+    </Feature>
+    <Feature>
+        <Name>Hallucination Control</Name>
+        <Prompt>How can I prevent the generation of incorrect or misleading information?</Prompt>
+    </Feature>
+    <Feature>
+        <Name>Adaptive Personas</Name>
+        <Prompt>What techniques can I use to adapt my responses to different user personas effectively?</Prompt>
+    </Feature>
+</CoreFeaturesSet>
