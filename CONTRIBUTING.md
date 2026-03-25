@@ -1,6 +1,6 @@
 # Contributing to Prompt-XML
 
-Thank you for considering contributing to the Prompt-XML project! We welcome your contributions and suggestions. Here are some guidelines to help you get started:
+Thank you for considering contributing to the Prompt-XML project! We welcome your contributions and suggestions. Here are some guidelines to help you get started: 
 
 ## XML Prompt Contributions
 - When contributing an XML prompt, please ensure that it is well-formed and adheres to XML standards.
